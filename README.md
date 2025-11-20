@@ -3,25 +3,42 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3e8c6c,100:68edb7&height=180&section=header&text=Taís+Ribeiro&fontSize=40&fontColor=ffffff&fontAlignY=32&font=Playfair+Display" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=700&color=4cb087&center=true&vCenter=true&width=650&lines=Estagi%C3%A1ria%2FJ%C3%BAnior+em+Ci%C3%AAncias+de+Dados" />
+</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tais-asribeiro/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:taisalsiri19@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:taisalsiri@hotmail.com">
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tais-alsiri" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div> 
+
 ---
 
 <div align="center">
 
-### 👩‍💻 Matemática • 📊 Cientista de Dados em formação • 🚀 Apaixonada por Astronomia
+**Sobre mim**
 
-🌟 Professora de Matemática (SENAC-SP)  
-🎓 Mestrado & Doutorado em Física (Unesp)  
-📚 Graduanda em Ciência de Dados (UNIVESP)  
-📈 Residência em Dados — Instituto ECOA  
+Bacharelanda em Ciência de Dados pela UNIVESP e residente em Análise de Dados no Instituto Ecoa, com sólida formação prévia em Matemática e Física (mestrado e doutorado). Atualmente desenvolvo dashboards interativos no Looker Studio, realizo consultas SQL (BigQuery) e análises exploratórias em Python, sempre focada em traduzir dados complexos em insights claros para apoio à decisão. 
 
 </div>
 
----
 
-## 🎯 **Sobre mim**
 
-Sou apaixonada por ensino, ciência e tecnologia. Atuo na interseção entre **educação, análise de dados e programação**, desenvolvendo dashboards, análises exploratórias, visualizações e soluções baseadas em dados.  
-Tenho forte formação acadêmica e experiência com **Python, SQL, Looker Studio, Jupyter, Machine Learning** e **pesquisa em Física/Astronomia Dinâmica**.
 
 ---
 
@@ -103,5 +120,5 @@ Tenho forte formação acadêmica e experiência com **Python, SQL, Looker Studi
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:7F00FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3e8c6c,100:68edb7&height=120&section=footer" />
 </p>
