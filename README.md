@@ -29,11 +29,16 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%9C%A8%20SOBRE%20MIM%20%E2%9C%A8-3e8c6c?style=for-the-badge&labelColor=68edb7&color=3e8c6c"/>
+</p>
 
-**Sobre mim**
-
-Bacharelanda em Ciência de Dados pela UNIVESP e residente em Análise de Dados no Instituto Ecoa, com sólida formação prévia em Matemática e Física (mestrado e doutorado). Atualmente desenvolvo dashboards interativos no Looker Studio, realizo consultas SQL (BigQuery) e análises exploratórias em Python, sempre focada em traduzir dados complexos em insights claros para apoio à decisão. 
+<p align="center">
+🎓 Bacharelanda em Ciência de Dados (UNIVESP) e residente em Análise de Dados no Instituto Ecoa.<br>
+📐 Background sólido em Matemática e Física (mestrado e doutorado).<br>
+📊 Experiência com dashboards (Looker Studio), SQL (BigQuery) e Python.<br>
+🌱 Transformo dados complexos em insights claros e aplicáveis.
+</p>
 
 </div>
 
@@ -42,27 +47,62 @@ Bacharelanda em Ciência de Dados pela UNIVESP e residente em Análise de Dados 
 
 ---
 
-## 🚀 **Tecnologias & Ferramentas**
+## 💻 **Tecnologias**
 
 ### 🔧 Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="48"/>
+  <img src="https://skillicons.dev/icons?i=c" title="Linguagem C" width="48"/>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash / Shell Script" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" width="48"/>
+
 </p>
 
-### 📊 Dados
+### 📦 Principais Bibliotecas
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,r,sqlite,py" />
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="48"/>
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="48"/>
+
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="48"/>
+
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" title="Seaborn" width="48"/>
+
+ <a href="https://scikit-learn.org/" title="Scikit-Learn">
+    <img width="68" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn"/>
+ </a>
+
 </p>
 
-### 📈 Visualização & BI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
-  <img height="48" src="https://img.icons8.com/color/452/google-data-studio.png"/>
-</p>
+### 📈 Ferramentas
 
-### ⚙️ Ferramentas & Versionamento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+  <!-- Looker Studio -->
+  <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" title="Looker Studio" width="48"/>
+
+  <!-- Jupyter Notebook -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="48"/>
+
+  <!-- Google Sheets -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Google Sheets" width="48"/>
+
+  <!-- Excel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" title="Excel" width="48"/>
+
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" width="48"/>
+
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48"/>
+
 </p>
 
 ---
@@ -95,26 +135,6 @@ Bacharelanda em Ciência de Dados pela UNIVESP e residente em Análise de Dados 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tais-asribeiro&theme=tokyonight&hide_border=false" />
-</div>
-
----
-
-## 🌐 **Conecte-se comigo**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tais-asribeiro" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tais.asribeiro@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tais-asribeiro" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
