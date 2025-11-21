@@ -24,7 +24,6 @@
 🎓 Bacharelanda em Ciência de Dados (UNIVESP) e residente em Análise de Dados no Instituto Ecoa.<br>
 📐 Background sólido em Matemática e Física (mestrado e doutorado).<br>
 📊 Experiência com dashboards (Looker Studio), SQL (BigQuery) e Python.<br>
-🌱 Transformo dados complexos em insights claros e aplicáveis.
 </p>
 
 </div>
