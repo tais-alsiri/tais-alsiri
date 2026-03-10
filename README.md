@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=700&color=4cb087&center=true&vCenter=true&width=650&lines=Estagi%C3%A1ria%2FJ%C3%BAnior+em+Ci%C3%AAncias+de+Dados" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=700&color=4cb087&center=true&vCenter=true&width=650&lines=Estagi%C3%A1ria%2FJ%C3%BAnior+em+Ci%C3%AAncia+de+Dados" />
 </p>
 
 <div align="center">
